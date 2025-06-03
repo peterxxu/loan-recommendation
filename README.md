@@ -2,6 +2,10 @@
 
 This project is a Streamlit web application designed to provide insights into historical Request for Proposals (RFPs) and recommend suitable lenders based on RFP characteristics and lender preferences. It uses a machine learning model (XGBoost) to predict the likelihood of successful funding for RFP-lender matches.
 
+## Video Presentation
+
+Watch a video presentation and demo of the project: [Loom Video](https://www.loom.com/share/f46d08c5a7de461182762562d0e5dccc?sid=fa9641d5-76d0-4a77-b3f7-faeb51cd0438)
+
 ## Features
 
 - **Exploratory Data Analysis (EDA):** Visualizations and overviews of historical RFP data and lender preferences.
